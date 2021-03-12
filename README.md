@@ -2,7 +2,7 @@
 Competitive Skill type quiz questions tested offline using BlueJ(IDE)
 
 ## Cheerio to my first project of my life!!
-This was my 10th grade(2016) final project for my Java programming although I had learnt the basics of QBasic(although its dying ;D it was great back then!), c and c++ during(6th, 7th and 8th grade).
+This was my 10th grade(2016) final project for my Java programming although I had learnt the basics of QBasic(although its dying ;D it was great back then!), c and c++ during(6th, 7th and 8th grade). Later on I've done a TicTacToe game which is also attached.
 Further my java skills moved to NetBeans(IDE) and Swing(GUI) during PUC along with HTML, XML and MySQL.
 Enough of my route to programming :) I'm glad you read so far of my life!
 This project comprises skill type quiz questions tested offline. 
